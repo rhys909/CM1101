@@ -1,1 +1,2 @@
-print("Hello! \n" * 10 )
+print("Hello!")
+print("World!")
