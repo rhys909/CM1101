@@ -50,7 +50,5 @@ final_room = {
 
     "exits": {"north":"Kirill"},
 
-    "items": []
+    "items": [item_arkenstone]
 }
-
-dronkey =
