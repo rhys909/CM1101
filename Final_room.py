@@ -36,15 +36,15 @@ final_room = {
 
     "description":
     """
-     As you enter the final room the hot smokey air fills your lungs.
-    The heat dries the moisture in your eyes, blurring your vision.
-    As you look up from the burnt stone floor you see a plethora of
-    skeletons; the remains of the people that have tried before.
+     As you enter the highest room of the tallest tower, the hot smokey
+    air fills your lungs. The heat dries the moisture in your eyes,
+    blurring your vision. As you look up from the burnt stone floor you
+    see a plethora of skeletons; the remains of the people that have
+    tried before.
 
      The ground shakes and a hot gust of air blows you back. Towering
-    over you is the grotesque scaley beast with dagger-like fangs and
-    wings too small for its humongous body. Wrapped in its tail is an
-    annoying donkey.
+    over you is the terrible fire breathing dragon and wings too small
+    for its humongous body. Wrapped in its tail is an annoying donkey.
 
     """,
 
@@ -53,4 +53,4 @@ final_room = {
     "items": []
 }
 
-dronkey = 
+dronkey =
